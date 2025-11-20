@@ -1,1 +1,2 @@
 feature branch first line
+second line in feature1 -after modifyinh file1
