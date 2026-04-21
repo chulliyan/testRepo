@@ -1,0 +1,11 @@
+---
+name: work flow to run linux commands
+on: workflow_dispatch
+jobs:
+     job1:
+       runs-on: ubuntu-22.04
+       steps:
+         - name: print greetings
+           run: echo "Welcome to Github Actions"
+     
+ 
